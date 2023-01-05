@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\lab4\lab4_2\bin\Debug\net6.0\lab4_2.exe
+C:\Users\Александр\Desktop\lab4\lab4_2\bin\Debug\net6.0\lab4_2.deps.json
+C:\Users\Александр\Desktop\lab4\lab4_2\bin\Debug\net6.0\lab4_2.runtimeconfig.json
+C:\Users\Александр\Desktop\lab4\lab4_2\bin\Debug\net6.0\lab4_2.dll
+C:\Users\Александр\Desktop\lab4\lab4_2\bin\Debug\net6.0\lab4_2.pdb
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\lab4_2.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\lab4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfo.cs
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\lab4_2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\lab4_2.dll
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\refint\lab4_2.dll
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\lab4_2.pdb
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\lab4_2.genruntimeconfig.cache
+C:\Users\Александр\Desktop\lab4\lab4_2\obj\Debug\net6.0\ref\lab4_2.dll

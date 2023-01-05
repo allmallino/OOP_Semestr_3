@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_2_OOP.Bandit">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIAAAAAAAAFAAAAAAAAAAAABAAAAAAAAAIA=</HashCode>
+      <FileName>Bandit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_2_OOP.ConsoleLog">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Lab_2_OOP.ConsoleLog.LambdaWriting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ConsoleLog.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Lab_2_OOP.ConsoleLog.AnonWriting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ConsoleLog.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAQAAAAAAAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ConsoleLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_OOP.Entity">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIECACAAKAAgAAASAAAAAAAIAAEAAABAABgAGABAAg=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_2_OOP.Fruit" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAIAAAAGAAAAAAAIAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Fruit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lab_2_OOP.Map">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_2_OOP.Monster">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIAAAAAgAABAAAAAAAAAAAABAAAAAAAAAIA=</HashCode>
+      <FileName>Monster.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_2_OOP.Player">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQAAICAAAAhQAAAIAAAAAAACAABAAAAAAACAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

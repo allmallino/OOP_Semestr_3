@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\bin\Release\net6.0\Lab_1_OOP.exe
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\bin\Release\net6.0\Lab_1_OOP.deps.json
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\bin\Release\net6.0\Lab_1_OOP.runtimeconfig.json
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\bin\Release\net6.0\Lab_1_OOP.dll
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\bin\Release\net6.0\Lab_1_OOP.pdb
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\Lab_1_OOP.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\Lab_1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\Lab_1_OOP.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\Lab_1_OOP.AssemblyInfo.cs
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\Lab_1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\Lab_1_OOP.dll
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\refint\Lab_1_OOP.dll
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\Lab_1_OOP.pdb
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\Lab_1_OOP.genruntimeconfig.cache
+C:\Users\Александр\Desktop\projects\Lab_1_OOP\obj\Release\net6.0\ref\Lab_1_OOP.dll
